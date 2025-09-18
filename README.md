@@ -2,6 +2,6 @@
 
 домашки будт в коталоге src каждая в своей папке
 
-@bankaikuraku@gmail.com
+@harrellprime@gmail.com
 
 tg: @harr3ll
