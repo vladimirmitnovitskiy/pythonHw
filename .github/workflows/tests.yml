@@ -26,5 +26,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run pytest
-        working-directory: src/hw5
         run: pytest -v
