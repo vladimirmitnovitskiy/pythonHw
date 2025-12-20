@@ -1,7 +1,7 @@
 import pytest
 import random
 
-from src.sorting import heap_sort
+from src.sorting.heap_sort import heap_sort, heap
 
 #unit test
 
