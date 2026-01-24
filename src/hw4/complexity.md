@@ -1,0 +1,1 @@
+queensPerebor.py имеет сложность O(n!*n^2)
